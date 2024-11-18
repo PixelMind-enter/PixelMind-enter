@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PixelMind-enter
-- 👀 I hate programming....
+- 👀 !I hate programming....
 
 <!---
 PixelMind-enter/PixelMind-enter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
